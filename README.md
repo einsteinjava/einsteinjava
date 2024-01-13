@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a software engineer with more than 15 years of experience in the industry. As a full-stack developer, I have a wide range of expertise in backend, frontend, DevOps, and system design. The common projects that I work with are service API, web applications,  and ERP applications. I am open for discussion and project work, feel free to contact me.
+thanks,
+warm regard.
 <!--
 **einsteinjava/einsteinjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
