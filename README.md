@@ -1,7 +1,14 @@
 ### Hi there 👋
-I am a software engineer with more than 15 years of experience in the industry. As a full-stack developer, I have a wide range of expertise in backend, frontend, DevOps, and system design. The common projects that I work with are API service, web application, and enterprise application. I am open for discussion and project work, feel free to contact me.
-thanks,
-warm regard.
+I am a software engineer with more than 16 years of experience in the industry. As a full-stack developer, I have a wide range of expertise in backend, frontend, DevOps, and system design. The common projects that I work with are API services, web applications, and enterprise applications. I am open for discussion and project work, feel free to contact me.  
+Thanks,  
+Warm Regard.  
+
+### About Me
+- 🔭 I’m working on enterprise application development as a full-stack developer with backend heavy.
+- 🌱 I’m continuously learning all aspects of enterprise application on designing, developing, maintaining, and stay relevant on the technology stack used.
+- 👯 I’m looking to collaborate on software development.
+- 📫 How to reach me: [Telegram](https://t.me/einsteinjava)
+
 <!--
 **einsteinjava/einsteinjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
