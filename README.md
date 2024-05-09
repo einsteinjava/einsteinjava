@@ -5,7 +5,7 @@ Warm Regard.
 
 ### About Me
 - 🔭 I’m working on enterprise application development as a full-stack developer with backend heavy.
-- 🌱 I’m continuously learning all aspects of an enterprise application on designing, developing, maintaining, and stay relevant on the technology stack used.
+- 🌱 I’m continuously learning all aspects of an enterprise application on designing, developing, maintaining, and staying relevant on the technology stack used.
 - 👯 I’m looking to collaborate on software development.
 - 📫 How to reach me: [Telegram](https://t.me/einsteinjava)
 
