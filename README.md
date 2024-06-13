@@ -7,7 +7,9 @@ Warm Regard.
 - 🔭 I’m working on enterprise application development as a full-stack developer with backend heavy.
 - 🌱 I’m continuously learning all aspects of an enterprise application on designing, developing, maintaining, and staying relevant on the technology stack used.
 - 👯 I’m looking to collaborate on software development.
-- 📫 How to reach me: [Telegram](https://t.me/einsteinjava)
+- 📫 How to reach me:
+  * [Telegram](https://t.me/einsteinjava)
+  * [EMail](mailto:einstein.java@gmail.com)
 
 <!--
 **einsteinjava/einsteinjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
