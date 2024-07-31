@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a senior software engineer with more than 17 years of experience in the industry. As a full-stack developer, I have a wide range of expertise in backend, frontend, DevOps, and system design. Common projects that I work with are API services, web applications, and enterprise applications using architecture like monolith, modulith, or microservice. I am open for discussion and project work, feel free to contact me.  
+I am a senior software engineer with more than 17 years of experience in the industry. As a full-stack developer, I have a wide range of expertise in backend, frontend, DevOps, and system design. Proficient with Java, Python, Go, JavaScript. Familiar with Spring Boot, Micronaut, Quarkus, FastAPI, Django, GoFiber, Express, Vue, React, Tailwind, Bootstrap, Docker, Kubernetes, Helm, Terraform, Ansible, Istio, GCP, AWS, VPS. Common projects that I work with are API services, web applications, and enterprise applications using architecture like monolith, modulith, or microservice. I am open for discussion and project work, feel free to contact me.  
 Thanks,  
 Warm Regard.  
 
