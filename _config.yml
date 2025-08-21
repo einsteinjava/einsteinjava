@@ -1,4 +1,6 @@
-title: Albert
+title: Einstein Albert
 theme: jekyll-theme-minimal
-description: Albert's Personal Blog
+description: Proficient with Java, Rust, Go, Python, Spring Boot, Axum, Fiber, FastAPI, React, Vue, etc
 logo: /assets/img/profile.png
+show_downloads: true
+google_analytics:

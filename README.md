@@ -1,5 +1,6 @@
-### Hi there 👋
-I am a senior software engineer with more than 18+ years of experience in the industry. As a full-stack developer heavy on the backend. I have a wide range of expertise in the backend, frontend, devops, and system design. Proficient with Java, Rust, Python, Go, Typescript, and Javascript. Familiar with Spring Boot, Micronaut, Quarkus, Axum, Spring Rs, FastAPI, Django, GoFiber, Express, React, Vue, Angular, Tailwind, Bootstrap, Docker, Kubernetes, Helm, Terraform, Ansible, Istio, GCP, AWS, Azure, VPS.  
+# Hi there 👋
+
+I am a senior software engineer with more than 18+ years of experience in the industry. As a full-stack developer heavy on the backend. I have a wide range of expertise in the backend, frontend, devops, and system design. Proficient with Java, Rust, Go, Python, Typescript, and Javascript. Familiar with Spring Boot, Micronaut, Quarkus, Axum, Spring Rs, Go Fiber, Go Spring, FastAPI, Django, Express, React, Vue, Angular, Tailwind, Bootstrap, Docker, Kubernetes, Helm, Terraform, Ansible, Istio, GCP, AWS, Azure, VPS.  
 
 Using various servers like Postgres, MySQL, Oracle, SQL Server, MongoDB, Redis, Elasticsearch, Sqlite, BigQuery, Tomcat, Jetty, Undertow, Netty, Nginx, Node, ActiveMQ, RabbitMQ, Kafka, PubSub, Auth0, Keycloak, LDAP, Minio, Alfresco, Jenkins, and application likes GitHub, GitLab, BitBucket, Jira, Redmine, Trello, Notion, Figma, SSH, TMux, Git, NVim, VSCode, Cursor, Windsurf, IntelliJ, Netbeans, Eclipse, DBeaver, and Chrome.  
 
@@ -8,12 +9,12 @@ The most common projects I work with are API services, web applications, and ent
 Thanks,  
 Warm Regard.  
 
-### About Me
+## About Me
+
 - 🔭 I’m working on enterprise application development as a full-stack developer with backend heavy.
 - 🌱 I’m continuously learning all aspects of an enterprise application on designing, developing, maintaining, and staying relevant on the technology stack used.
 - 👯 I’m looking to collaborate on software development.
 - ⚡ Fun fact: My daily challenge is to brainstorm innovative ways to monetize a simple cup of coffee without traditionally sale it.
-
 
 <!--
 **einsteinjava/einsteinjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
