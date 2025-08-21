@@ -2,5 +2,5 @@ title: Einstein Albert
 theme: jekyll-theme-minimal
 description: Proficient with Java, Rust, Go, Python, Spring Boot, Axum, Fiber, FastAPI, React, Vue, etc
 logo: /assets/img/profile.png
-show_downloads: true
+show_downloads: false 
 google_analytics:
