@@ -15,7 +15,6 @@ Warm Regard.
 - 🌱 I’m continuously learning all aspects of an enterprise application on designing, developing, maintaining, and staying relevant on the technology stack used.
 - ⚡ Fun fact: My daily challenge is to brainstorm innovative ways to monetize a simple cup of coffee without traditionally sale it.
 - 👯 I’m looking to collaborate on software development.
-- 📫 [Drop me your task description](mailto:einstein.java@gmail.com)
 
 <!--
 **einsteinjava/einsteinjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
