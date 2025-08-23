@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I am a senior software engineer with more than 18+ years of experience in the industry. As a full-stack developer heavy on the backend. I have a wide range of expertise in the backend, frontend, devops, and system design. Proficient with Java, Rust, Go, Python, Typescript, and Javascript. Familiar with Spring Boot, Micronaut, Quarkus, Axum, Spring Rs, Go Fiber, Go Spring, FastAPI, Django, Express, React, Vue, Angular, Tailwind, Bootstrap, Docker, Kubernetes, Helm, Terraform, Ansible, Istio, GCP, AWS, Azure, VPS.  
+I am a senior software engineer with more than 18+ years of experience in the industry. As a full-stack developer heavy on the backend. I have a wide range of expertise in the backend, frontend, devops, and system design. Proficient with Java, Rust, Go, Python, Typescript, and Javascript. Familiar with Spring Boot, Spring Cloud, Spring AI, Micronaut, Quarkus, Axum, Spring Rs, Go Fiber, Go Spring, FastAPI, Django, Express, React, Vue, Angular, Tailwind, Bootstrap, Docker, Kubernetes, Helm, Terraform, Ansible, Istio, GCP, AWS, Azure, VPS.  
 
-Using various servers like Postgres, MySQL, Oracle, SQL Server, MongoDB, Redis, Elasticsearch, Sqlite, BigQuery, Tomcat, Jetty, Undertow, Netty, Nginx, Node, ActiveMQ, RabbitMQ, Kafka, PubSub, Auth0, Keycloak, LDAP, Minio, Alfresco, Jenkins, and application likes GitHub, GitLab, BitBucket, Jira, Redmine, Trello, Notion, Figma, SSH, TMux, Git, NVim, VSCode, Cursor, Windsurf, IntelliJ, Netbeans, Eclipse, DBeaver, and Chrome.  
+Using various servers like Postgres, MySQL, Oracle, SQL Server, MongoDB, Redis, Elasticsearch, Sqlite, BigQuery, Tomcat, Jetty, Undertow, Netty, Nginx, Node, ActiveMQ, RabbitMQ, Kafka, PubSub, Auth0, Keycloak, LDAP, Minio, Alfresco, OpenAI, Azure AI, Jenkins, and application likes GitHub, GitLab, BitBucket, Jira, Redmine, Trello, Notion, Figma, SSH, TMux, Git, NVim, VSCode, Cursor, Windsurf, IntelliJ, Netbeans, Eclipse, DBeaver, and Chrome.  
 
-The most common projects I work with are API services, web applications, and enterprise applications using architecture like monolith, modulith, and microservice, and using protocols like REST, GraphQL, SOAP, gRPC, JSON-RPC, XML-RPC, WebSocket, Webhooks, Polling, and OpenAPI. I am open to discussion and project work. Feel free to contact me.  
+The most common projects I work with are API services, web applications, enterprise applications, and AI platform integration using architecture like monolith, modulith, and microservice, and using protocols like REST, GraphQL, SOAP, gRPC, JSON-RPC, XML-RPC, WebSocket, Webhooks, Polling, and OpenAPI. I am open to discussion and project work. Feel free to contact me.  
 
 Thanks,  
 Warm Regard.  
