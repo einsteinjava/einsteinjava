@@ -4,7 +4,7 @@ I am a senior software engineer with more than 18+ years of experience in the in
 
 Using various servers like Postgres, MySQL, Oracle, SQL Server, MongoDB, Redis, Elasticsearch, Vespa, Sqlite, BigQuery, Tomcat, Jetty, Undertow, Netty, Nginx, Node, ActiveMQ, RabbitMQ, Kafka, PubSub, Auth0, Keycloak, LDAP, Eureka, Consul, Vault, Sleuth, Minio, S3, Alfresco, Jenkins, Stripe, Twilio, OpenAI, Azure AI, Gemini AI, OpenRouter AI.  
 
-Using application likes GitHub, GitLab, BitBucket, Jira, Redmine, Trello, Notion, Figma, SSH, TMux, Git, NVim, Copilot, ChatGPT, Gemini, Claude, VSCode, Cursor, Antigravity, IntelliJ, Netbeans, Eclipse, DBeaver, Insomnia, Postman and Chrome.  
+Using applications like GitHub, GitLab, BitBucket, Jira, Redmine, Trello, Notion, Figma, SSH, TMux, Git, NVim, Copilot, ChatGPT, Gemini, Claude, VSCode, Cursor, Antigravity, IntelliJ, Netbeans, Eclipse, DBeaver, Insomnia, Postman and Chrome.  
 
 The most common projects I work with are API services, web enterprise applications, and AI platform integration using architecture like monolith, modulith, and microservice, and using protocols like REST, GraphQL, SOAP, gRPC, JSON-RPC, XML-RPC, WebSocket, Webhooks, Polling, OpenAPI, and AI Platform Integration API.  
 
